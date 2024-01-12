@@ -2,7 +2,8 @@
 - 👀 I’m interested in doing new things
 - 🌱 I’m currently learning DSA + WEB DEVELOPMENT
 - 📫 How to reach <kartikmahnot1@gmail.com>
-- ⚡ Fact: I don't know how but I am going to be great. 
+- ⚡ Fact: I don't know how but I am going to be great.
+- ✨ 12/09/2024
 
 <!---
 KARTIKMAHNOT/KARTIKMAHNOT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
